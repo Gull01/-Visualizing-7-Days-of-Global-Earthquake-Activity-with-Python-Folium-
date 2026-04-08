@@ -1,17 +1,17 @@
-# 🌋 7 Days of Global Earthquake Activity
+# 7 Days of Global Earthquake Activity
 
-## 🚀 Overview
+## Overview
 The map displays Past 7 days of global earthquake activity, using stylish, transparent markers that scale based on magnitude. It has a sleek, modern design with color gradients to highlight earthquake intensity:
 
-## ✨ Key Features
+## Key Features
 - **Seismic Tracing**: Displays live magnitude markers over a 7-day retrospective window.
 - **Dynamic Styling**: Markers that scale logarithmically to reflect intensity.
 - **Risk Evaluation**: Heatmap elements showcasing globally volatile tectonic areas.
 
-## 🛠️ Built With
+## Built With
 - **Tech Stack:** Python, Folium
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure your local environment is configured securely (e.g. Python 3.8+ or necessary GIS software context).
@@ -27,7 +27,7 @@ Ensure your local environment is configured securely (e.g. Python 3.8+ or necess
    ```
 3. Set up your environment and dependencies as needed.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see below for details.
 
 ```text

@@ -1,18 +1,17 @@
-# Visualizing 7 Days of Global Earthquake Activity with Python & Folium The map displays the past 7 days of global earthquake activity using stylish, transparent markers that scale based on magnitude. It features a sleek, modern design with color gradients to highlight earthquake intensity. ## Features
-- **Global Earthquake Tracking**: Visualizes recent earthquake data across the globe.
-- **Dynamic Styling**: Transparent markers that scale based on earthquake magnitude.
-- **Intensity Gradients**: Modern design with color gradients indicating the severity of the earthquake. ## Built With
-- Python
-- Folium
+# Visualizing 7 Days Of Global Earthquake Activity With Python Folium
 
 ## Overview
-This project is organized for professional use with clear structure and documentation.
+This repository contains code, assets, and documentation for the **Visualizing 7 Days Of Global Earthquake Activity With Python Folium** project.
 
 ## Features
-- Clean and maintainable codebase.
-- Structured for readability and reuse.
+- Clear project scope and maintainable structure.
+- Practical implementation focused on reliability.
+- Ready for extension and collaboration.
 
 ## Getting Started
 1. Clone the repository.
-2. Install dependencies if needed.
-3. Run the project using the repository instructions.
+2. Review the source files and documentation.
+3. Run the project using the tools listed in this repository.
+
+## License
+Add your preferred license information here.
